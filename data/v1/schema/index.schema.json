@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://enjoyfx.github.io/uarates_data/v1/schema/index.schema.json",
+  "title": "Каталог валют",
+  "type": "object",
+  "required": [
+    "schema",
+    "source",
+    "updated_at",
+    "last_date",
+    "currencies"
+  ],
+  "properties": {
+    "schema": {
+      "const": 1
+    },
+    "source": {
+      "type": "string",
+      "format": "uri"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Коли дані востаннє змінювались (UTC)"
+    },
+    "last_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Найпізніша дата, на яку є курс"
+    },
+    "currencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "code",
+          "r030",
+          "name",
+          "name_en",
+          "units",
+          "first_date",
+          "last_date",
+          "quoted",
+          "updated_at"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "code": {
+            "type": "string",
+            "pattern": "^[A-Z]{3}$",
+            "description": "Літерний код валюти ISO 4217"
+          },
+          "r030": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "Цифровий код валюти ISO 4217"
+          },
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Назва валюти українською (за НБУ)"
+          },
+          "name_en": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Назва валюти англійською (за НБУ)"
+          },
+          "units": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Поточна кількість одиниць котирування"
+          },
+          "first_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "last_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "quoted": {
+            "type": "boolean",
+            "description": "Чи котирує НБУ валюту зараз"
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Коли дані востаннє змінювались (UTC)"
+          }
+        }
+      }
+    }
+  }
+}

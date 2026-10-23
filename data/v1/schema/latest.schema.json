@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://enjoyfx.github.io/uarates_data/v1/schema/latest.schema.json",
+  "title": "Останні встановлені курси всіх валют, які НБУ котирує зараз",
+  "type": "object",
+  "required": [
+    "schema",
+    "updated_at",
+    "rates"
+  ],
+  "properties": {
+    "schema": {
+      "const": 1
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Коли дані востаннє змінювались (UTC)"
+    },
+    "rates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "code",
+          "date",
+          "rate",
+          "units",
+          "rate_per_unit"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "code": {
+            "type": "string",
+            "pattern": "^[A-Z]{3}$",
+            "description": "Літерний код валюти ISO 4217"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Дата, на яку встановлено курс (ISO 8601)"
+          },
+          "rate": {
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "description": "Офіційний курс: гривень за `units` одиниць валюти"
+          },
+          "units": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Кількість одиниць валюти, за яку котирується `rate`"
+          },
+          "rate_per_unit": {
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "description": "Гривень за 1 одиницю валюти"
+          }
+        }
+      }
+    }
+  }
+}

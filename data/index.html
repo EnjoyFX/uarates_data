@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Курси гривні НБУ — відкриті дані</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0 auto; max-width: 720px; padding: 32px 16px; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+    code { font-size: 0.95em; }
+    li { margin: 4px 0; }
+  </style>
+</head>
+<body>
+  <h1>Офіційні курси гривні НБУ — відкриті дані</h1>
+  <p>Повна історія курсів усіх валют з 02.09.1996 у JSON і CSV. Оновлюється щодня.</p>
+  <ul>
+    <li><a href="v1/index.json"><code>v1/index.json</code></a> — каталог валют</li>
+    <li><a href="v1/latest.json"><code>v1/latest.json</code></a> — останні курси</li>
+    <li><a href="v1/USD.json"><code>v1/USD.json</code></a>, <a href="v1/USD.csv"><code>v1/USD.csv</code></a> — історія валюти (будь-який код з каталогу)</li>
+    <li><a href="v1/schema/currency.schema.json"><code>v1/schema/</code></a> — JSON Schema</li>
+  </ul>
+  <p>Опис формату й приклади: <a href="https://github.com/EnjoyFX/uarates_data">github.com/EnjoyFX/uarates_data</a>.
+  Джерело — <a href="https://bank.gov.ua/ua/markets/exchangerates">Національний банк України</a>.</p>
+</body>
+</html>

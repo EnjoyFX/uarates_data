@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://enjoyfx.github.io/uarates_data/v1/schema/currency.schema.json",
+  "title": "Історія офіційного курсу валюти до гривні",
+  "description": "Усі курси валюти від 02.09.1996 (введення гривні), за зростанням дати, кожен календарний день.",
+  "type": "object",
+  "required": [
+    "schema",
+    "code",
+    "r030",
+    "name",
+    "name_en",
+    "updated_at",
+    "rates"
+  ],
+  "properties": {
+    "schema": {
+      "const": 1
+    },
+    "code": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$",
+      "description": "Літерний код валюти ISO 4217"
+    },
+    "r030": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Цифровий код валюти ISO 4217"
+    },
+    "name": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Назва валюти українською (за НБУ)"
+    },
+    "name_en": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Назва валюти англійською (за НБУ)"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Коли дані востаннє змінювались (UTC)"
+    },
+    "rates": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/rate"
+      }
+    }
+  },
+  "$defs": {
+    "rate": {
+      "type": "object",
+      "required": [
+        "date",
+        "rate",
+        "units",
+        "rate_per_unit"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "Дата, на яку встановлено курс (ISO 8601)"
+        },
+        "rate": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "description": "Офіційний курс: гривень за `units` одиниць валюти"
+        },
+        "units": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Кількість одиниць валюти, за яку котирується `rate`"
+        },
+        "rate_per_unit": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "description": "Гривень за 1 одиницю валюти"
+        }
+      }
+    }
+  }
+}
