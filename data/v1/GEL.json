@@ -4,7 +4,7 @@
   "r030": 981,
   "name": "Ларі",
   "name_en": "Lari",
-  "updated_at": "2026-10-26T19:50:35Z",
+  "updated_at": "2026-10-27T19:20:33Z",
   "rates": [
     {"date": "1996-09-02", "rate": 139.76, "units": 100, "rate_per_unit": 1.3976},
     {"date": "1996-09-03", "rate": 139.68, "units": 100, "rate_per_unit": 1.3968},
@@ -8882,6 +8882,7 @@
     {"date": "2026-10-24", "rate": 17.349, "units": 1, "rate_per_unit": 17.349},
     {"date": "2026-10-25", "rate": 17.349, "units": 1, "rate_per_unit": 17.349},
     {"date": "2026-10-26", "rate": 17.4122, "units": 1, "rate_per_unit": 17.4122},
-    {"date": "2026-10-27", "rate": 17.5444, "units": 1, "rate_per_unit": 17.5444}
+    {"date": "2026-10-27", "rate": 17.5444, "units": 1, "rate_per_unit": 17.5444},
+    {"date": "2026-10-28", "rate": 17.5793, "units": 1, "rate_per_unit": 17.5793}
   ]
 }

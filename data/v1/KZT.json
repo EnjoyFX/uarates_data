@@ -4,7 +4,7 @@
   "r030": 398,
   "name": "Теньге",
   "name_en": "Tenge",
-  "updated_at": "2026-10-26T19:50:35Z",
+  "updated_at": "2026-10-27T19:20:33Z",
   "rates": [
     {"date": "1996-09-02", "rate": 2.58, "units": 100, "rate_per_unit": 0.0258},
     {"date": "1996-09-03", "rate": 2.57, "units": 100, "rate_per_unit": 0.0257},
@@ -11006,6 +11006,7 @@
     {"date": "2026-10-24", "rate": 10.0174, "units": 100, "rate_per_unit": 0.100174},
     {"date": "2026-10-25", "rate": 10.0174, "units": 100, "rate_per_unit": 0.100174},
     {"date": "2026-10-26", "rate": 9.9322, "units": 100, "rate_per_unit": 0.099322},
-    {"date": "2026-10-27", "rate": 10.0544, "units": 100, "rate_per_unit": 0.100544}
+    {"date": "2026-10-27", "rate": 10.0544, "units": 100, "rate_per_unit": 0.100544},
+    {"date": "2026-10-28", "rate": 9.9682, "units": 100, "rate_per_unit": 0.099682}
   ]
 }

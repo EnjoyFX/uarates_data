@@ -4,7 +4,7 @@
   "r030": 36,
   "name": "Австралійський долар",
   "name_en": "Australian Dollar",
-  "updated_at": "2026-10-26T19:50:35Z",
+  "updated_at": "2026-10-27T19:20:33Z",
   "rates": [
     {"date": "1996-09-02", "rate": 139.12, "units": 100, "rate_per_unit": 1.3912},
     {"date": "1996-09-03", "rate": 139.08, "units": 100, "rate_per_unit": 1.3908},
@@ -11006,6 +11006,7 @@
     {"date": "2026-10-24", "rate": 31.5623, "units": 1, "rate_per_unit": 31.5623},
     {"date": "2026-10-25", "rate": 31.5623, "units": 1, "rate_per_unit": 31.5623},
     {"date": "2026-10-26", "rate": 31.7319, "units": 1, "rate_per_unit": 31.7319},
-    {"date": "2026-10-27", "rate": 31.9947, "units": 1, "rate_per_unit": 31.9947}
+    {"date": "2026-10-27", "rate": 31.9947, "units": 1, "rate_per_unit": 31.9947},
+    {"date": "2026-10-28", "rate": 32.0715, "units": 1, "rate_per_unit": 32.0715}
   ]
 }

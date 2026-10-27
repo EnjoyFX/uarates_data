@@ -4,7 +4,7 @@
   "r030": 960,
   "name": "СПЗ (спеціальні права запозичення)",
   "name_en": "SDR (Special Drawing Right)",
-  "updated_at": "2026-10-26T19:50:35Z",
+  "updated_at": "2026-10-27T19:20:33Z",
   "rates": [
     {"date": "1997-11-12", "rate": 259.82, "units": 100, "rate_per_unit": 2.5982},
     {"date": "1997-11-13", "rate": 258.82, "units": 100, "rate_per_unit": 2.5882},
@@ -10582,6 +10582,7 @@
     {"date": "2026-10-24", "rate": 61.0479, "units": 1, "rate_per_unit": 61.0479},
     {"date": "2026-10-25", "rate": 61.0479, "units": 1, "rate_per_unit": 61.0479},
     {"date": "2026-10-26", "rate": 61.2506, "units": 1, "rate_per_unit": 61.2506},
-    {"date": "2026-10-27", "rate": 61.6907, "units": 1, "rate_per_unit": 61.6907}
+    {"date": "2026-10-27", "rate": 61.6907, "units": 1, "rate_per_unit": 61.6907},
+    {"date": "2026-10-28", "rate": 61.6917, "units": 1, "rate_per_unit": 61.6917}
   ]
 }
