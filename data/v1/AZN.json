@@ -4,7 +4,7 @@
   "r030": 944,
   "name": "Азербайджанський манат",
   "name_en": "Azerbaijan Manat",
-  "updated_at": "2026-10-29T19:38:45Z",
+  "updated_at": "2026-10-30T19:22:59Z",
   "rates": [
     {"date": "2014-04-04", "rate": 1478.9778, "units": 100, "rate_per_unit": 14.789778},
     {"date": "2014-04-05", "rate": 1478.9778, "units": 100, "rate_per_unit": 14.789778},
@@ -4598,6 +4598,9 @@
     {"date": "2026-10-27", "rate": 26.7966, "units": 1, "rate_per_unit": 26.7966},
     {"date": "2026-10-28", "rate": 26.8256, "units": 1, "rate_per_unit": 26.8256},
     {"date": "2026-10-29", "rate": 26.8229, "units": 1, "rate_per_unit": 26.8229},
-    {"date": "2026-10-30", "rate": 26.7859, "units": 1, "rate_per_unit": 26.7859}
+    {"date": "2026-10-30", "rate": 26.7859, "units": 1, "rate_per_unit": 26.7859},
+    {"date": "2026-10-31", "rate": 26.7859, "units": 1, "rate_per_unit": 26.7859},
+    {"date": "2026-11-01", "rate": 26.7859, "units": 1, "rate_per_unit": 26.7859},
+    {"date": "2026-11-02", "rate": 26.6819, "units": 1, "rate_per_unit": 26.6819}
   ]
 }

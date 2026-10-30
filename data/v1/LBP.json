@@ -4,7 +4,7 @@
   "r030": 422,
   "name": "Ліванський фунт",
   "name_en": "Lebanese Pound",
-  "updated_at": "2026-10-29T19:38:45Z",
+  "updated_at": "2026-10-30T19:22:59Z",
   "rates": [
     {"date": "1998-04-07", "rate": 1.3349, "units": 1000, "rate_per_unit": 0.0013349},
     {"date": "1998-05-01", "rate": 1.34, "units": 1000, "rate_per_unit": 0.00134},
@@ -8357,6 +8357,9 @@
     {"date": "2026-10-27", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
     {"date": "2026-10-28", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
     {"date": "2026-10-29", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
-    {"date": "2026-10-30", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508}
+    {"date": "2026-10-30", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
+    {"date": "2026-10-31", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
+    {"date": "2026-11-01", "rate": 0.0508, "units": 100, "rate_per_unit": 0.000508},
+    {"date": "2026-11-02", "rate": 0.0506, "units": 100, "rate_per_unit": 0.000506}
   ]
 }

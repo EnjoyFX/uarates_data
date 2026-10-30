@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "source": "https://bank.gov.ua",
-  "updated_at": "2026-10-29T19:38:45Z",
-  "last_date": "2026-10-30",
+  "updated_at": "2026-10-30T19:22:59Z",
+  "last_date": "2026-11-02",
   "currencies": [
     {
       "code": "AED",
@@ -11,9 +11,9 @@
       "name_en": "UAE Dirham",
       "units": 1,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "AUD",
@@ -22,9 +22,9 @@
       "name_en": "Australian Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "AZN",
@@ -33,9 +33,9 @@
       "name_en": "Azerbaijan Manat",
       "units": 1,
       "first_date": "2014-04-04",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "BDT",
@@ -44,9 +44,9 @@
       "name_en": "Taka",
       "units": 10,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "CAD",
@@ -55,9 +55,9 @@
       "name_en": "Canadian Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "CHF",
@@ -66,9 +66,9 @@
       "name_en": "Swiss Franc",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "CNY",
@@ -77,9 +77,9 @@
       "name_en": "Yuan Renminbi ",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "CZK",
@@ -88,9 +88,9 @@
       "name_en": "Czech Koruna",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "DKK",
@@ -99,9 +99,9 @@
       "name_en": "Danish Krone",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "DZD",
@@ -110,9 +110,9 @@
       "name_en": "Algerian Dinar",
       "units": 10,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "EGP",
@@ -121,9 +121,9 @@
       "name_en": "Egyptian Pound",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "EUR",
@@ -132,9 +132,9 @@
       "name_en": "Euro",
       "units": 1,
       "first_date": "1999-01-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "GBP",
@@ -143,9 +143,9 @@
       "name_en": "Pound Sterling",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "GEL",
@@ -154,9 +154,9 @@
       "name_en": "Lari",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "HKD",
@@ -165,9 +165,9 @@
       "name_en": "Hong Kong Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "HUF",
@@ -176,9 +176,9 @@
       "name_en": "Forint",
       "units": 100,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "IDR",
@@ -187,9 +187,9 @@
       "name_en": "Rupiah",
       "units": 1000,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "ILS",
@@ -198,9 +198,9 @@
       "name_en": "New Israeli Sheqel",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "INR",
@@ -209,9 +209,9 @@
       "name_en": "Indian Rupee",
       "units": 10,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "JPY",
@@ -220,9 +220,9 @@
       "name_en": "Yen",
       "units": 10,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "KRW",
@@ -231,9 +231,9 @@
       "name_en": "Won",
       "units": 100,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "KZT",
@@ -242,9 +242,9 @@
       "name_en": "Tenge",
       "units": 100,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "LBP",
@@ -253,9 +253,9 @@
       "name_en": "Lebanese Pound",
       "units": 100,
       "first_date": "1998-04-07",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "MDL",
@@ -264,9 +264,9 @@
       "name_en": "Moldovan Leu",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "MXN",
@@ -275,9 +275,9 @@
       "name_en": "Mexican Peso",
       "units": 1,
       "first_date": "1998-04-07",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "MYR",
@@ -286,9 +286,9 @@
       "name_en": "Malaysian Ringgit",
       "units": 1,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "NOK",
@@ -297,9 +297,9 @@
       "name_en": "Norwegian Krone",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "NZD",
@@ -308,9 +308,9 @@
       "name_en": "New Zealand Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "PLN",
@@ -319,9 +319,9 @@
       "name_en": "Zloty",
       "units": 1,
       "first_date": "1997-11-12",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "RON",
@@ -330,9 +330,9 @@
       "name_en": "Romanian Leu",
       "units": 1,
       "first_date": "2014-05-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "RSD",
@@ -341,9 +341,9 @@
       "name_en": "Serbian Dinar",
       "units": 10,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "SAR",
@@ -352,9 +352,9 @@
       "name_en": "Saudi Riyal",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "SEK",
@@ -363,9 +363,9 @@
       "name_en": "Swedish Krona",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "SGD",
@@ -374,9 +374,9 @@
       "name_en": "Singapore Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "THB",
@@ -385,9 +385,9 @@
       "name_en": "Baht",
       "units": 10,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "TND",
@@ -396,9 +396,9 @@
       "name_en": "Tunisian Dinar",
       "units": 1,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "TRY",
@@ -407,9 +407,9 @@
       "name_en": "Turkish Lira",
       "units": 1,
       "first_date": "2014-04-04",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "USD",
@@ -418,9 +418,9 @@
       "name_en": "US Dollar",
       "units": 1,
       "first_date": "1996-09-02",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "VND",
@@ -429,9 +429,9 @@
       "name_en": "Dong",
       "units": 1000,
       "first_date": "1998-04-07",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "XAG",
@@ -440,9 +440,9 @@
       "name_en": "Silver",
       "units": 1,
       "first_date": "1997-08-28",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "XAU",
@@ -451,9 +451,9 @@
       "name_en": "Gold",
       "units": 1,
       "first_date": "1996-09-03",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "XDR",
@@ -462,9 +462,9 @@
       "name_en": "SDR (Special Drawing Right)",
       "units": 1,
       "first_date": "1997-11-12",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "XPD",
@@ -473,9 +473,9 @@
       "name_en": "Palladium",
       "units": 1,
       "first_date": "2000-09-08",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "XPT",
@@ -484,9 +484,9 @@
       "name_en": "Platinum",
       "units": 1,
       "first_date": "1997-08-28",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     },
     {
       "code": "ZAR",
@@ -495,9 +495,9 @@
       "name_en": "Rand",
       "units": 1,
       "first_date": "2016-11-01",
-      "last_date": "2026-10-30",
+      "last_date": "2026-11-02",
       "quoted": true,
-      "updated_at": "2026-10-29T19:38:45Z"
+      "updated_at": "2026-10-30T19:22:59Z"
     }
   ]
 }
