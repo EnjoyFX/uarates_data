@@ -4,7 +4,7 @@
   "r030": 458,
   "name": "Малайзійський ринггіт",
   "name_en": "Malaysian Ringgit",
-  "updated_at": "2026-10-30T19:22:59Z",
+  "updated_at": "2026-11-02T22:46:43Z",
   "rates": [
     {"date": "2016-11-01", "rate": 607.5527, "units": 100, "rate_per_unit": 6.075527},
     {"date": "2016-11-02", "rate": 607.5527, "units": 100, "rate_per_unit": 6.075527},
@@ -3659,6 +3659,7 @@
     {"date": "2026-10-30", "rate": 11.2156, "units": 1, "rate_per_unit": 11.2156},
     {"date": "2026-10-31", "rate": 11.2156, "units": 1, "rate_per_unit": 11.2156},
     {"date": "2026-11-01", "rate": 11.2156, "units": 1, "rate_per_unit": 11.2156},
-    {"date": "2026-11-02", "rate": 11.1754, "units": 1, "rate_per_unit": 11.1754}
+    {"date": "2026-11-02", "rate": 11.1754, "units": 1, "rate_per_unit": 11.1754},
+    {"date": "2026-11-03", "rate": 11.1812, "units": 1, "rate_per_unit": 11.1812}
   ]
 }
