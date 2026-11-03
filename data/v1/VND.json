@@ -4,7 +4,7 @@
   "r030": 704,
   "name": "Донг",
   "name_en": "Dong",
-  "updated_at": "2026-11-02T22:46:43Z",
+  "updated_at": "2026-11-03T20:30:15Z",
   "rates": [
     {"date": "1998-04-07", "rate": 1.5711, "units": 10000, "rate_per_unit": 0.00015711},
     {"date": "1998-05-01", "rate": 1.57, "units": 10000, "rate_per_unit": 0.000157},
@@ -8361,6 +8361,7 @@
     {"date": "2026-10-31", "rate": 1.7629, "units": 1000, "rate_per_unit": 0.0017629},
     {"date": "2026-11-01", "rate": 1.7629, "units": 1000, "rate_per_unit": 0.0017629},
     {"date": "2026-11-02", "rate": 1.7576, "units": 1000, "rate_per_unit": 0.0017576},
-    {"date": "2026-11-03", "rate": 1.7661, "units": 1000, "rate_per_unit": 0.0017661}
+    {"date": "2026-11-03", "rate": 1.7661, "units": 1000, "rate_per_unit": 0.0017661},
+    {"date": "2026-11-04", "rate": 1.7726, "units": 1000, "rate_per_unit": 0.0017726}
   ]
 }
