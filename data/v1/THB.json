@@ -4,7 +4,7 @@
   "r030": 764,
   "name": "Бат",
   "name_en": "Baht",
-  "updated_at": "2026-11-03T20:30:15Z",
+  "updated_at": "2026-11-04T20:50:29Z",
   "rates": [
     {"date": "2016-11-01", "rate": 72.8708, "units": 100, "rate_per_unit": 0.728708},
     {"date": "2016-11-02", "rate": 73.0567, "units": 100, "rate_per_unit": 0.730567},
@@ -3661,6 +3661,7 @@
     {"date": "2026-11-01", "rate": 13.486, "units": 10, "rate_per_unit": 1.3486},
     {"date": "2026-11-02", "rate": 13.4474, "units": 10, "rate_per_unit": 1.34474},
     {"date": "2026-11-03", "rate": 13.4893, "units": 10, "rate_per_unit": 1.34893},
-    {"date": "2026-11-04", "rate": 13.5294, "units": 10, "rate_per_unit": 1.35294}
+    {"date": "2026-11-04", "rate": 13.5294, "units": 10, "rate_per_unit": 1.35294},
+    {"date": "2026-11-05", "rate": 13.536, "units": 10, "rate_per_unit": 1.3536}
   ]
 }

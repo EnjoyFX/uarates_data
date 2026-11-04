@@ -4,7 +4,7 @@
   "r030": 682,
   "name": "Саудівський ріял",
   "name_en": "Saudi Riyal",
-  "updated_at": "2026-11-03T20:30:15Z",
+  "updated_at": "2026-11-04T20:50:29Z",
   "rates": [
     {"date": "1996-09-02", "rate": 46.95, "units": 100, "rate_per_unit": 0.4695},
     {"date": "1996-09-03", "rate": 46.93, "units": 100, "rate_per_unit": 0.4693},
@@ -8940,6 +8940,7 @@
     {"date": "2026-11-01", "rate": 12.1322, "units": 1, "rate_per_unit": 12.1322},
     {"date": "2026-11-02", "rate": 12.0845, "units": 1, "rate_per_unit": 12.0845},
     {"date": "2026-11-03", "rate": 12.1327, "units": 1, "rate_per_unit": 12.1327},
-    {"date": "2026-11-04", "rate": 12.1656, "units": 1, "rate_per_unit": 12.1656}
+    {"date": "2026-11-04", "rate": 12.1656, "units": 1, "rate_per_unit": 12.1656},
+    {"date": "2026-11-05", "rate": 12.1322, "units": 1, "rate_per_unit": 12.1322}
   ]
 }

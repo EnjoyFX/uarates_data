@@ -4,7 +4,7 @@
   "r030": 959,
   "name": "Золото",
   "name_en": "Gold",
-  "updated_at": "2026-11-03T20:30:15Z",
+  "updated_at": "2026-11-04T20:50:29Z",
   "rates": [
     {"date": "1996-09-03", "rate": 679.8, "units": 1, "rate_per_unit": 679.8},
     {"date": "1996-09-10", "rate": 677.6, "units": 1, "rate_per_unit": 677.6},
@@ -9688,6 +9688,7 @@
     {"date": "2026-11-01", "rate": 183039.35, "units": 1, "rate_per_unit": 183039.35},
     {"date": "2026-11-02", "rate": 179378.88, "units": 1, "rate_per_unit": 179378.88},
     {"date": "2026-11-03", "rate": 177632.58, "units": 1, "rate_per_unit": 177632.58},
-    {"date": "2026-11-04", "rate": 179459.21, "units": 1, "rate_per_unit": 179459.21}
+    {"date": "2026-11-04", "rate": 179459.21, "units": 1, "rate_per_unit": 179459.21},
+    {"date": "2026-11-05", "rate": 184042.87, "units": 1, "rate_per_unit": 184042.87}
   ]
 }
