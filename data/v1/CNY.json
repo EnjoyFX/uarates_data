@@ -4,7 +4,7 @@
   "r030": 156,
   "name": "Юань Женьміньбі",
   "name_en": "Yuan Renminbi ",
-  "updated_at": "2026-11-04T20:50:29Z",
+  "updated_at": "2026-11-05T21:05:48Z",
   "rates": [
     {"date": "1996-09-02", "rate": 21.2, "units": 100, "rate_per_unit": 0.212},
     {"date": "1996-09-03", "rate": 21.19, "units": 100, "rate_per_unit": 0.2119},
@@ -8965,6 +8965,7 @@
     {"date": "2026-11-02", "rate": 6.8154, "units": 1, "rate_per_unit": 6.8154},
     {"date": "2026-11-03", "rate": 6.8518, "units": 1, "rate_per_unit": 6.8518},
     {"date": "2026-11-04", "rate": 6.8443, "units": 1, "rate_per_unit": 6.8443},
-    {"date": "2026-11-05", "rate": 6.8234, "units": 1, "rate_per_unit": 6.8234}
+    {"date": "2026-11-05", "rate": 6.8234, "units": 1, "rate_per_unit": 6.8234},
+    {"date": "2026-11-06", "rate": 6.814, "units": 1, "rate_per_unit": 6.814}
   ]
 }

@@ -4,7 +4,7 @@
   "r030": 840,
   "name": "Долар США",
   "name_en": "US Dollar",
-  "updated_at": "2026-11-04T20:50:29Z",
+  "updated_at": "2026-11-05T21:05:48Z",
   "rates": [
     {"date": "1996-09-02", "rate": 176.1, "units": 100, "rate_per_unit": 1.761},
     {"date": "1996-09-03", "rate": 176, "units": 100, "rate_per_unit": 1.76},
@@ -11015,6 +11015,7 @@
     {"date": "2026-11-02", "rate": 45.3526, "units": 1, "rate_per_unit": 45.3526},
     {"date": "2026-11-03", "rate": 45.5348, "units": 1, "rate_per_unit": 45.5348},
     {"date": "2026-11-04", "rate": 45.666, "units": 1, "rate_per_unit": 45.666},
-    {"date": "2026-11-05", "rate": 45.5375, "units": 1, "rate_per_unit": 45.5375}
+    {"date": "2026-11-05", "rate": 45.5375, "units": 1, "rate_per_unit": 45.5375},
+    {"date": "2026-11-06", "rate": 45.4432, "units": 1, "rate_per_unit": 45.4432}
   ]
 }
