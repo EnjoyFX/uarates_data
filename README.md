@@ -7,6 +7,7 @@
 Оновлюється щодня автоматично. Без ключів, без лімітів, з CORS — можна читати прямо з браузера.
 
 **Базова адреса:** `https://enjoyfx.github.io/uarates_data/v1/`
+**Відкрити UI онлайн**: `https://enjoyfx.github.io/uarates_web/`
 
 ## Файли
 
