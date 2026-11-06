@@ -4,7 +4,7 @@
   "r030": 356,
   "name": "Індійська рупія",
   "name_en": "Indian Rupee",
-  "updated_at": "2026-11-05T21:05:48Z",
+  "updated_at": "2026-11-06T20:27:09Z",
   "rates": [
     {"date": "1996-09-02", "rate": 49.47, "units": 1000, "rate_per_unit": 0.04947},
     {"date": "1996-09-03", "rate": 49.44, "units": 1000, "rate_per_unit": 0.04944},
@@ -8934,6 +8934,9 @@
     {"date": "2026-11-03", "rate": 4.7985, "units": 10, "rate_per_unit": 0.47985},
     {"date": "2026-11-04", "rate": 4.8178, "units": 10, "rate_per_unit": 0.48178},
     {"date": "2026-11-05", "rate": 4.8097, "units": 10, "rate_per_unit": 0.48097},
-    {"date": "2026-11-06", "rate": 4.8097, "units": 10, "rate_per_unit": 0.48097}
+    {"date": "2026-11-06", "rate": 4.8097, "units": 10, "rate_per_unit": 0.48097},
+    {"date": "2026-11-07", "rate": 4.8097, "units": 10, "rate_per_unit": 0.48097},
+    {"date": "2026-11-08", "rate": 4.8097, "units": 10, "rate_per_unit": 0.48097},
+    {"date": "2026-11-09", "rate": 4.8245, "units": 10, "rate_per_unit": 0.48245}
   ]
 }
