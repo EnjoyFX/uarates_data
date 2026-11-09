@@ -4,7 +4,7 @@
   "r030": 344,
   "name": "Гонконгівський долар",
   "name_en": "Hong Kong Dollar",
-  "updated_at": "2026-11-06T20:27:09Z",
+  "updated_at": "2026-11-09T23:26:58Z",
   "rates": [
     {"date": "1996-09-02", "rate": 22.77, "units": 100, "rate_per_unit": 0.2277},
     {"date": "1996-09-03", "rate": 22.76, "units": 100, "rate_per_unit": 0.2276},
@@ -8937,6 +8937,7 @@
     {"date": "2026-11-06", "rate": 5.7926, "units": 1, "rate_per_unit": 5.7926},
     {"date": "2026-11-07", "rate": 5.7926, "units": 1, "rate_per_unit": 5.7926},
     {"date": "2026-11-08", "rate": 5.7926, "units": 1, "rate_per_unit": 5.7926},
-    {"date": "2026-11-09", "rate": 5.7818, "units": 1, "rate_per_unit": 5.7818}
+    {"date": "2026-11-09", "rate": 5.7818, "units": 1, "rate_per_unit": 5.7818},
+    {"date": "2026-11-10", "rate": 5.7912, "units": 1, "rate_per_unit": 5.7912}
   ]
 }

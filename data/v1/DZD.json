@@ -4,7 +4,7 @@
   "r030": 12,
   "name": "Алжирський динар",
   "name_en": "Algerian Dinar",
-  "updated_at": "2026-11-06T20:27:09Z",
+  "updated_at": "2026-11-09T23:26:58Z",
   "rates": [
     {"date": "2016-11-01", "rate": 23.2102, "units": 100, "rate_per_unit": 0.232102},
     {"date": "2016-11-02", "rate": 23.2102, "units": 100, "rate_per_unit": 0.232102},
@@ -3666,6 +3666,7 @@
     {"date": "2026-11-06", "rate": 3.3447, "units": 10, "rate_per_unit": 0.33447},
     {"date": "2026-11-07", "rate": 3.3447, "units": 10, "rate_per_unit": 0.33447},
     {"date": "2026-11-08", "rate": 3.3447, "units": 10, "rate_per_unit": 0.33447},
-    {"date": "2026-11-09", "rate": 3.3283, "units": 10, "rate_per_unit": 0.33283}
+    {"date": "2026-11-09", "rate": 3.3283, "units": 10, "rate_per_unit": 0.33283},
+    {"date": "2026-11-10", "rate": 3.3377, "units": 10, "rate_per_unit": 0.33377}
   ]
 }
