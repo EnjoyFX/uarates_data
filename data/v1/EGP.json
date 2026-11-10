@@ -4,7 +4,7 @@
   "r030": 818,
   "name": "Єгипетський фунт",
   "name_en": "Egyptian Pound",
-  "updated_at": "2026-11-09T23:26:58Z",
+  "updated_at": "2026-11-10T20:49:26Z",
   "rates": [
     {"date": "1996-09-02", "rate": 51.85, "units": 100, "rate_per_unit": 0.5185},
     {"date": "1996-09-03", "rate": 51.82, "units": 100, "rate_per_unit": 0.5182},
@@ -8946,6 +8946,7 @@
     {"date": "2026-11-07", "rate": 0.8432, "units": 1, "rate_per_unit": 0.8432},
     {"date": "2026-11-08", "rate": 0.8432, "units": 1, "rate_per_unit": 0.8432},
     {"date": "2026-11-09", "rate": 0.8415, "units": 1, "rate_per_unit": 0.8415},
-    {"date": "2026-11-10", "rate": 0.8395, "units": 1, "rate_per_unit": 0.8395}
+    {"date": "2026-11-10", "rate": 0.8395, "units": 1, "rate_per_unit": 0.8395},
+    {"date": "2026-11-11", "rate": 0.852, "units": 1, "rate_per_unit": 0.852}
   ]
 }
