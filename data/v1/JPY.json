@@ -4,7 +4,7 @@
   "r030": 392,
   "name": "Єна",
   "name_en": "Yen",
-  "updated_at": "2026-11-10T20:49:26Z",
+  "updated_at": "2026-11-11T21:26:27Z",
   "rates": [
     {"date": "1996-09-02", "rate": 16.2, "units": 1000, "rate_per_unit": 0.0162},
     {"date": "1996-09-03", "rate": 16.13, "units": 1000, "rate_per_unit": 0.01613},
@@ -11021,6 +11021,7 @@
     {"date": "2026-11-08", "rate": 2.8701, "units": 10, "rate_per_unit": 0.28701},
     {"date": "2026-11-09", "rate": 2.8641, "units": 10, "rate_per_unit": 0.28641},
     {"date": "2026-11-10", "rate": 2.8745, "units": 10, "rate_per_unit": 0.28745},
-    {"date": "2026-11-11", "rate": 2.8779, "units": 10, "rate_per_unit": 0.28779}
+    {"date": "2026-11-11", "rate": 2.8779, "units": 10, "rate_per_unit": 0.28779},
+    {"date": "2026-11-12", "rate": 2.85, "units": 10, "rate_per_unit": 0.285}
   ]
 }

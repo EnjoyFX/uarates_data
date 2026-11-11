@@ -4,7 +4,7 @@
   "r030": 962,
   "name": "Платина",
   "name_en": "Platinum",
-  "updated_at": "2026-11-10T20:49:26Z",
+  "updated_at": "2026-11-11T21:26:27Z",
   "rates": [
     {"date": "1997-08-28", "rate": 751.28, "units": 1, "rate_per_unit": 751.28},
     {"date": "1997-08-29", "rate": 754.87, "units": 1, "rate_per_unit": 754.87},
@@ -9667,6 +9667,7 @@
     {"date": "2026-11-08", "rate": 69177.29, "units": 1, "rate_per_unit": 69177.29},
     {"date": "2026-11-09", "rate": 69302.48, "units": 1, "rate_per_unit": 69302.48},
     {"date": "2026-11-10", "rate": 70331.66, "units": 1, "rate_per_unit": 70331.66},
-    {"date": "2026-11-11", "rate": 70902.19, "units": 1, "rate_per_unit": 70902.19}
+    {"date": "2026-11-11", "rate": 70902.19, "units": 1, "rate_per_unit": 70902.19},
+    {"date": "2026-11-12", "rate": 70964.38, "units": 1, "rate_per_unit": 70964.38}
   ]
 }
