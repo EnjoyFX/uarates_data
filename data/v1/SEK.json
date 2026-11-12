@@ -4,7 +4,7 @@
   "r030": 752,
   "name": "Шведська крона",
   "name_en": "Swedish Krona",
-  "updated_at": "2026-11-11T21:26:27Z",
+  "updated_at": "2026-11-12T21:28:38Z",
   "rates": [
     {"date": "1996-09-02", "rate": 26.62, "units": 100, "rate_per_unit": 0.2662},
     {"date": "1996-09-03", "rate": 26.54, "units": 100, "rate_per_unit": 0.2654},
@@ -11022,6 +11022,7 @@
     {"date": "2026-11-09", "rate": 4.5906, "units": 1, "rate_per_unit": 4.5906},
     {"date": "2026-11-10", "rate": 4.6205, "units": 1, "rate_per_unit": 4.6205},
     {"date": "2026-11-11", "rate": 4.6484, "units": 1, "rate_per_unit": 4.6484},
-    {"date": "2026-11-12", "rate": 4.5693, "units": 1, "rate_per_unit": 4.5693}
+    {"date": "2026-11-12", "rate": 4.5693, "units": 1, "rate_per_unit": 4.5693},
+    {"date": "2026-11-13", "rate": 4.5551, "units": 1, "rate_per_unit": 4.5551}
   ]
 }

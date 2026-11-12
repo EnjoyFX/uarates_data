@@ -4,7 +4,7 @@
   "r030": 964,
   "name": "Паладій",
   "name_en": "Palladium",
-  "updated_at": "2026-11-11T21:26:27Z",
+  "updated_at": "2026-11-12T21:28:38Z",
   "rates": [
     {"date": "2000-09-08", "rate": 38939.66, "units": 10, "rate_per_unit": 3893.966},
     {"date": "2000-09-27", "rate": 38893.86, "units": 10, "rate_per_unit": 3889.386},
@@ -9547,6 +9547,7 @@
     {"date": "2026-11-09", "rate": 46554.48, "units": 1, "rate_per_unit": 46554.48},
     {"date": "2026-11-10", "rate": 46823.56, "units": 1, "rate_per_unit": 46823.56},
     {"date": "2026-11-11", "rate": 47134.79, "units": 1, "rate_per_unit": 47134.79},
-    {"date": "2026-11-12", "rate": 48929.47, "units": 1, "rate_per_unit": 48929.47}
+    {"date": "2026-11-12", "rate": 48929.47, "units": 1, "rate_per_unit": 48929.47},
+    {"date": "2026-11-13", "rate": 46437.46, "units": 1, "rate_per_unit": 46437.46}
   ]
 }

@@ -4,7 +4,7 @@
   "r030": 702,
   "name": "Сінгапурський долар",
   "name_en": "Singapore Dollar",
-  "updated_at": "2026-11-11T21:26:27Z",
+  "updated_at": "2026-11-12T21:28:38Z",
   "rates": [
     {"date": "1996-09-02", "rate": 124.85, "units": 100, "rate_per_unit": 1.2485},
     {"date": "1996-09-03", "rate": 124.78, "units": 100, "rate_per_unit": 1.2478},
@@ -11022,6 +11022,7 @@
     {"date": "2026-11-09", "rate": 35.3734, "units": 1, "rate_per_unit": 35.3734},
     {"date": "2026-11-10", "rate": 35.4817, "units": 1, "rate_per_unit": 35.4817},
     {"date": "2026-11-11", "rate": 35.6079, "units": 1, "rate_per_unit": 35.6079},
-    {"date": "2026-11-12", "rate": 35.3435, "units": 1, "rate_per_unit": 35.3435}
+    {"date": "2026-11-12", "rate": 35.3435, "units": 1, "rate_per_unit": 35.3435},
+    {"date": "2026-11-13", "rate": 35.3182, "units": 1, "rate_per_unit": 35.3182}
   ]
 }

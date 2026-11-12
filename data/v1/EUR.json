@@ -4,7 +4,7 @@
   "r030": 978,
   "name": "Євро",
   "name_en": "Euro",
-  "updated_at": "2026-11-11T21:26:27Z",
+  "updated_at": "2026-11-12T21:28:38Z",
   "rates": [
     {"date": "1999-01-01", "rate": 399.8452, "units": 100, "rate_per_unit": 3.998452},
     {"date": "1999-01-02", "rate": 399.8452, "units": 100, "rate_per_unit": 3.998452},
@@ -10183,6 +10183,7 @@
     {"date": "2026-11-09", "rate": 50.6455, "units": 1, "rate_per_unit": 50.6455},
     {"date": "2026-11-10", "rate": 50.8152, "units": 1, "rate_per_unit": 50.8152},
     {"date": "2026-11-11", "rate": 51.0795, "units": 1, "rate_per_unit": 51.0795},
-    {"date": "2026-11-12", "rate": 50.4823, "units": 1, "rate_per_unit": 50.4823}
+    {"date": "2026-11-12", "rate": 50.4823, "units": 1, "rate_per_unit": 50.4823},
+    {"date": "2026-11-13", "rate": 50.3379, "units": 1, "rate_per_unit": 50.3379}
   ]
 }
