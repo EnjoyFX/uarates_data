@@ -4,7 +4,7 @@
   "r030": 484,
   "name": "Мексиканське песо",
   "name_en": "Mexican Peso",
-  "updated_at": "2026-11-12T21:28:38Z",
+  "updated_at": "2026-11-13T20:54:13Z",
   "rates": [
     {"date": "1998-04-07", "rate": 23.9676, "units": 100, "rate_per_unit": 0.239676},
     {"date": "1998-05-01", "rate": 24.02, "units": 100, "rate_per_unit": 0.2402},
@@ -8371,6 +8371,9 @@
     {"date": "2026-11-10", "rate": 2.4432, "units": 1, "rate_per_unit": 2.4432},
     {"date": "2026-11-11", "rate": 2.4616, "units": 1, "rate_per_unit": 2.4616},
     {"date": "2026-11-12", "rate": 2.4364, "units": 1, "rate_per_unit": 2.4364},
-    {"date": "2026-11-13", "rate": 2.439, "units": 1, "rate_per_unit": 2.439}
+    {"date": "2026-11-13", "rate": 2.439, "units": 1, "rate_per_unit": 2.439},
+    {"date": "2026-11-14", "rate": 2.439, "units": 1, "rate_per_unit": 2.439},
+    {"date": "2026-11-15", "rate": 2.439, "units": 1, "rate_per_unit": 2.439},
+    {"date": "2026-11-16", "rate": 2.4432, "units": 1, "rate_per_unit": 2.4432}
   ]
 }

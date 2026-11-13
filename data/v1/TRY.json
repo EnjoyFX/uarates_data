@@ -4,7 +4,7 @@
   "r030": 949,
   "name": "Турецька ліра",
   "name_en": "Turkish Lira",
-  "updated_at": "2026-11-12T21:28:38Z",
+  "updated_at": "2026-11-13T20:54:13Z",
   "rates": [
     {"date": "2014-04-04", "rate": 541.6837, "units": 100, "rate_per_unit": 5.416837},
     {"date": "2014-04-05", "rate": 541.6837, "units": 100, "rate_per_unit": 5.416837},
@@ -4612,6 +4612,9 @@
     {"date": "2026-11-10", "rate": 0.905, "units": 1, "rate_per_unit": 0.905},
     {"date": "2026-11-11", "rate": 0.9058, "units": 1, "rate_per_unit": 0.9058},
     {"date": "2026-11-12", "rate": 0.9023, "units": 1, "rate_per_unit": 0.9023},
-    {"date": "2026-11-13", "rate": 0.903, "units": 1, "rate_per_unit": 0.903}
+    {"date": "2026-11-13", "rate": 0.903, "units": 1, "rate_per_unit": 0.903},
+    {"date": "2026-11-14", "rate": 0.903, "units": 1, "rate_per_unit": 0.903},
+    {"date": "2026-11-15", "rate": 0.903, "units": 1, "rate_per_unit": 0.903},
+    {"date": "2026-11-16", "rate": 0.9019, "units": 1, "rate_per_unit": 0.9019}
   ]
 }
