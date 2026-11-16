@@ -4,7 +4,7 @@
   "r030": 50,
   "name": "Така",
   "name_en": "Taka",
-  "updated_at": "2026-11-13T20:54:13Z",
+  "updated_at": "2026-11-16T23:23:49Z",
   "rates": [
     {"date": "2016-11-01", "rate": 32.5784, "units": 100, "rate_per_unit": 0.325784},
     {"date": "2016-11-02", "rate": 32.5784, "units": 100, "rate_per_unit": 0.325784},
@@ -3673,6 +3673,7 @@
     {"date": "2026-11-13", "rate": 3.626, "units": 10, "rate_per_unit": 0.3626},
     {"date": "2026-11-14", "rate": 3.626, "units": 10, "rate_per_unit": 0.3626},
     {"date": "2026-11-15", "rate": 3.626, "units": 10, "rate_per_unit": 0.3626},
-    {"date": "2026-11-16", "rate": 3.6369, "units": 10, "rate_per_unit": 0.36369}
+    {"date": "2026-11-16", "rate": 3.6369, "units": 10, "rate_per_unit": 0.36369},
+    {"date": "2026-11-17", "rate": 3.6502, "units": 10, "rate_per_unit": 0.36502}
   ]
 }

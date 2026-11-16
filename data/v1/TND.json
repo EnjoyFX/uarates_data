@@ -4,7 +4,7 @@
   "r030": 788,
   "name": "Туніський динар",
   "name_en": "Tunisian Dinar",
-  "updated_at": "2026-11-13T20:54:13Z",
+  "updated_at": "2026-11-16T23:23:49Z",
   "rates": [
     {"date": "2016-11-01", "rate": 1135.8368, "units": 100, "rate_per_unit": 11.358368},
     {"date": "2016-11-02", "rate": 1135.8368, "units": 100, "rate_per_unit": 11.358368},
@@ -3673,6 +3673,7 @@
     {"date": "2026-11-13", "rate": 14.9909, "units": 1, "rate_per_unit": 14.9909},
     {"date": "2026-11-14", "rate": 14.9909, "units": 1, "rate_per_unit": 14.9909},
     {"date": "2026-11-15", "rate": 14.9909, "units": 1, "rate_per_unit": 14.9909},
-    {"date": "2026-11-16", "rate": 14.9761, "units": 1, "rate_per_unit": 14.9761}
+    {"date": "2026-11-16", "rate": 14.9761, "units": 1, "rate_per_unit": 14.9761},
+    {"date": "2026-11-17", "rate": 14.9089, "units": 1, "rate_per_unit": 14.9089}
   ]
 }
