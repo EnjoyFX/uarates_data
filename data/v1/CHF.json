@@ -4,7 +4,7 @@
   "r030": 756,
   "name": "Швейцарський франк",
   "name_en": "Swiss Franc",
-  "updated_at": "2026-11-16T23:23:49Z",
+  "updated_at": "2026-11-17T22:24:20Z",
   "rates": [
     {"date": "1996-09-02", "rate": 146.68, "units": 100, "rate_per_unit": 1.4668},
     {"date": "1996-09-03", "rate": 146.1, "units": 100, "rate_per_unit": 1.461},
@@ -11027,6 +11027,7 @@
     {"date": "2026-11-14", "rate": 54.5492, "units": 1, "rate_per_unit": 54.5492},
     {"date": "2026-11-15", "rate": 54.5492, "units": 1, "rate_per_unit": 54.5492},
     {"date": "2026-11-16", "rate": 54.2518, "units": 1, "rate_per_unit": 54.2518},
-    {"date": "2026-11-17", "rate": 54.0456, "units": 1, "rate_per_unit": 54.0456}
+    {"date": "2026-11-17", "rate": 54.0456, "units": 1, "rate_per_unit": 54.0456},
+    {"date": "2026-11-18", "rate": 54.0255, "units": 1, "rate_per_unit": 54.0255}
   ]
 }
