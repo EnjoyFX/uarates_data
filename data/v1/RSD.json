@@ -4,7 +4,7 @@
   "r030": 941,
   "name": "Сербський динар",
   "name_en": "Serbian Dinar",
-  "updated_at": "2026-11-17T22:24:20Z",
+  "updated_at": "2026-11-18T21:56:55Z",
   "rates": [
     {"date": "2016-11-01", "rate": 22.8102, "units": 100, "rate_per_unit": 0.228102},
     {"date": "2016-11-02", "rate": 22.8102, "units": 100, "rate_per_unit": 0.228102},
@@ -3675,6 +3675,7 @@
     {"date": "2026-11-15", "rate": 4.2793, "units": 10, "rate_per_unit": 0.42793},
     {"date": "2026-11-16", "rate": 4.2694, "units": 10, "rate_per_unit": 0.42694},
     {"date": "2026-11-17", "rate": 4.25, "units": 10, "rate_per_unit": 0.425},
-    {"date": "2026-11-18", "rate": 4.2382, "units": 10, "rate_per_unit": 0.42382}
+    {"date": "2026-11-18", "rate": 4.2382, "units": 10, "rate_per_unit": 0.42382},
+    {"date": "2026-11-19", "rate": 4.2137, "units": 10, "rate_per_unit": 0.42137}
   ]
 }

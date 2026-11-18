@@ -4,7 +4,7 @@
   "r030": 348,
   "name": "Форинт",
   "name_en": "Forint",
-  "updated_at": "2026-11-17T22:24:20Z",
+  "updated_at": "2026-11-18T21:56:55Z",
   "rates": [
     {"date": "1996-09-02", "rate": 11.64, "units": 1000, "rate_per_unit": 0.01164},
     {"date": "1996-09-03", "rate": 11.63, "units": 1000, "rate_per_unit": 0.01163},
@@ -11028,6 +11028,7 @@
     {"date": "2026-11-15", "rate": 13.8171, "units": 100, "rate_per_unit": 0.138171},
     {"date": "2026-11-16", "rate": 13.7344, "units": 100, "rate_per_unit": 0.137344},
     {"date": "2026-11-17", "rate": 13.7035, "units": 100, "rate_per_unit": 0.137035},
-    {"date": "2026-11-18", "rate": 13.6674, "units": 100, "rate_per_unit": 0.136674}
+    {"date": "2026-11-18", "rate": 13.6674, "units": 100, "rate_per_unit": 0.136674},
+    {"date": "2026-11-19", "rate": 13.4753, "units": 100, "rate_per_unit": 0.134753}
   ]
 }

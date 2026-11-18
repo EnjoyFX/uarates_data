@@ -4,7 +4,7 @@
   "r030": 710,
   "name": "Ренд",
   "name_en": "Rand",
-  "updated_at": "2026-11-17T22:24:20Z",
+  "updated_at": "2026-11-18T21:56:55Z",
   "rates": [
     {"date": "2016-11-01", "rate": 188.0982, "units": 100, "rate_per_unit": 1.880982},
     {"date": "2016-11-02", "rate": 188.0982, "units": 100, "rate_per_unit": 1.880982},
@@ -3675,6 +3675,7 @@
     {"date": "2026-11-15", "rate": 2.7267, "units": 1, "rate_per_unit": 2.7267},
     {"date": "2026-11-16", "rate": 2.6905, "units": 1, "rate_per_unit": 2.6905},
     {"date": "2026-11-17", "rate": 2.6796, "units": 1, "rate_per_unit": 2.6796},
-    {"date": "2026-11-18", "rate": 2.6774, "units": 1, "rate_per_unit": 2.6774}
+    {"date": "2026-11-18", "rate": 2.6774, "units": 1, "rate_per_unit": 2.6774},
+    {"date": "2026-11-19", "rate": 2.6398, "units": 1, "rate_per_unit": 2.6398}
   ]
 }

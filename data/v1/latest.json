@@ -1,321 +1,321 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T22:24:20Z",
+  "updated_at": "2026-11-18T21:56:55Z",
   "rates": [
     {
       "code": "AED",
-      "date": "2026-11-18",
-      "rate": 12.3449,
+      "date": "2026-11-19",
+      "rate": 12.3064,
       "units": 1,
-      "rate_per_unit": 12.3449
+      "rate_per_unit": 12.3064
     },
     {
       "code": "AUD",
-      "date": "2026-11-18",
-      "rate": 30.5439,
+      "date": "2026-11-19",
+      "rate": 30.4049,
       "units": 1,
-      "rate_per_unit": 30.5439
+      "rate_per_unit": 30.4049
     },
     {
       "code": "AZN",
-      "date": "2026-11-18",
-      "rate": 26.6805,
+      "date": "2026-11-19",
+      "rate": 26.5957,
       "units": 1,
-      "rate_per_unit": 26.6805
+      "rate_per_unit": 26.5957
     },
     {
       "code": "BDT",
-      "date": "2026-11-18",
-      "rate": 3.635,
+      "date": "2026-11-19",
+      "rate": 3.6235,
       "units": 10,
-      "rate_per_unit": 0.3635
+      "rate_per_unit": 0.36235
     },
     {
       "code": "CAD",
-      "date": "2026-11-18",
-      "rate": 31.7147,
+      "date": "2026-11-19",
+      "rate": 31.5771,
       "units": 1,
-      "rate_per_unit": 31.7147
+      "rate_per_unit": 31.5771
     },
     {
       "code": "CHF",
-      "date": "2026-11-18",
-      "rate": 54.0255,
+      "date": "2026-11-19",
+      "rate": 53.6734,
       "units": 1,
-      "rate_per_unit": 54.0255
+      "rate_per_unit": 53.6734
     },
     {
       "code": "CNY",
-      "date": "2026-11-18",
-      "rate": 6.802,
+      "date": "2026-11-19",
+      "rate": 6.7804,
       "units": 1,
-      "rate_per_unit": 6.802
+      "rate_per_unit": 6.7804
     },
     {
       "code": "CZK",
-      "date": "2026-11-18",
-      "rate": 2.0433,
+      "date": "2026-11-19",
+      "rate": 2.032,
       "units": 1,
-      "rate_per_unit": 2.0433
+      "rate_per_unit": 2.032
     },
     {
       "code": "DKK",
-      "date": "2026-11-18",
-      "rate": 6.6695,
+      "date": "2026-11-19",
+      "rate": 6.632,
       "units": 1,
-      "rate_per_unit": 6.6695
+      "rate_per_unit": 6.632
     },
     {
       "code": "DZD",
-      "date": "2026-11-18",
-      "rate": 3.3085,
+      "date": "2026-11-19",
+      "rate": 3.2961,
       "units": 10,
-      "rate_per_unit": 0.33085
+      "rate_per_unit": 0.32961
     },
     {
       "code": "EGP",
-      "date": "2026-11-18",
-      "rate": 0.8442,
+      "date": "2026-11-19",
+      "rate": 0.8402,
       "units": 1,
-      "rate_per_unit": 0.8442
+      "rate_per_unit": 0.8402
     },
     {
       "code": "EUR",
-      "date": "2026-11-18",
-      "rate": 49.8561,
+      "date": "2026-11-19",
+      "rate": 49.5717,
       "units": 1,
-      "rate_per_unit": 49.8561
+      "rate_per_unit": 49.5717
     },
     {
       "code": "GBP",
-      "date": "2026-11-18",
-      "rate": 59.8196,
+      "date": "2026-11-19",
+      "rate": 59.5028,
       "units": 1,
-      "rate_per_unit": 59.8196
+      "rate_per_unit": 59.5028
     },
     {
       "code": "GEL",
-      "date": "2026-11-18",
-      "rate": 17.4805,
+      "date": "2026-11-19",
+      "rate": 17.4258,
       "units": 1,
-      "rate_per_unit": 17.4805
+      "rate_per_unit": 17.4258
     },
     {
       "code": "HKD",
-      "date": "2026-11-18",
-      "rate": 5.779,
+      "date": "2026-11-19",
+      "rate": 5.7611,
       "units": 1,
-      "rate_per_unit": 5.779
+      "rate_per_unit": 5.7611
     },
     {
       "code": "HUF",
-      "date": "2026-11-18",
-      "rate": 13.6674,
+      "date": "2026-11-19",
+      "rate": 13.4753,
       "units": 100,
-      "rate_per_unit": 0.136674
+      "rate_per_unit": 0.134753
     },
     {
       "code": "IDR",
-      "date": "2026-11-18",
-      "rate": 2.4838,
+      "date": "2026-11-19",
+      "rate": 2.4794,
       "units": 1000,
-      "rate_per_unit": 0.0024838
+      "rate_per_unit": 0.0024794
     },
     {
       "code": "ILS",
-      "date": "2026-11-18",
-      "rate": 13.9558,
+      "date": "2026-11-19",
+      "rate": 13.8884,
       "units": 1,
-      "rate_per_unit": 13.9558
+      "rate_per_unit": 13.8884
     },
     {
       "code": "INR",
-      "date": "2026-11-18",
-      "rate": 4.8506,
+      "date": "2026-11-19",
+      "rate": 4.8361,
       "units": 10,
-      "rate_per_unit": 0.48506
+      "rate_per_unit": 0.48361
     },
     {
       "code": "JPY",
-      "date": "2026-11-18",
-      "rate": 2.8494,
+      "date": "2026-11-19",
+      "rate": 2.8372,
       "units": 10,
-      "rate_per_unit": 0.28494
+      "rate_per_unit": 0.28372
     },
     {
       "code": "KRW",
-      "date": "2026-11-18",
-      "rate": 3.392,
+      "date": "2026-11-19",
+      "rate": 3.3929,
       "units": 100,
-      "rate_per_unit": 0.03392
+      "rate_per_unit": 0.033929
     },
     {
       "code": "KZT",
-      "date": "2026-11-18",
-      "rate": 10.2083,
+      "date": "2026-11-19",
+      "rate": 10.1657,
       "units": 100,
-      "rate_per_unit": 0.102083
+      "rate_per_unit": 0.101657
     },
     {
       "code": "LBP",
-      "date": "2026-11-18",
-      "rate": 0.0506,
+      "date": "2026-11-19",
+      "rate": 0.0504,
       "units": 100,
-      "rate_per_unit": 0.000506
+      "rate_per_unit": 0.000504
     },
     {
       "code": "MDL",
-      "date": "2026-11-18",
-      "rate": 2.4791,
+      "date": "2026-11-19",
+      "rate": 2.4647,
       "units": 1,
-      "rate_per_unit": 2.4791
+      "rate_per_unit": 2.4647
     },
     {
       "code": "MXN",
-      "date": "2026-11-18",
-      "rate": 2.4528,
+      "date": "2026-11-19",
+      "rate": 2.4413,
       "units": 1,
-      "rate_per_unit": 2.4528
+      "rate_per_unit": 2.4413
     },
     {
       "code": "MYR",
-      "date": "2026-11-18",
-      "rate": 11.0771,
+      "date": "2026-11-19",
+      "rate": 10.9813,
       "units": 1,
-      "rate_per_unit": 11.0771
+      "rate_per_unit": 10.9813
     },
     {
       "code": "NOK",
-      "date": "2026-11-18",
-      "rate": 4.7026,
+      "date": "2026-11-19",
+      "rate": 4.6673,
       "units": 1,
-      "rate_per_unit": 4.7026
+      "rate_per_unit": 4.6673
     },
     {
       "code": "NZD",
-      "date": "2026-11-18",
-      "rate": 24.9318,
+      "date": "2026-11-19",
+      "rate": 24.8286,
       "units": 1,
-      "rate_per_unit": 24.9318
+      "rate_per_unit": 24.8286
     },
     {
       "code": "PLN",
-      "date": "2026-11-18",
-      "rate": 11.3232,
+      "date": "2026-11-19",
+      "rate": 11.2393,
       "units": 1,
-      "rate_per_unit": 11.3232
+      "rate_per_unit": 11.2393
     },
     {
       "code": "RON",
-      "date": "2026-11-18",
-      "rate": 9.3226,
+      "date": "2026-11-19",
+      "rate": 9.2693,
       "units": 1,
-      "rate_per_unit": 9.3226
+      "rate_per_unit": 9.2693
     },
     {
       "code": "RSD",
-      "date": "2026-11-18",
-      "rate": 4.2382,
+      "date": "2026-11-19",
+      "rate": 4.2137,
       "units": 10,
-      "rate_per_unit": 0.42382
+      "rate_per_unit": 0.42137
     },
     {
       "code": "SAR",
-      "date": "2026-11-18",
-      "rate": 12.0848,
+      "date": "2026-11-19",
+      "rate": 12.0488,
       "units": 1,
-      "rate_per_unit": 12.0848
+      "rate_per_unit": 12.0488
     },
     {
       "code": "SEK",
-      "date": "2026-11-18",
-      "rate": 4.4878,
+      "date": "2026-11-19",
+      "rate": 4.45,
       "units": 1,
-      "rate_per_unit": 4.4878
+      "rate_per_unit": 4.45
     },
     {
       "code": "SGD",
-      "date": "2026-11-18",
-      "rate": 35.19,
+      "date": "2026-11-19",
+      "rate": 35.0476,
       "units": 1,
-      "rate_per_unit": 35.19
+      "rate_per_unit": 35.0476
     },
     {
       "code": "THB",
-      "date": "2026-11-18",
-      "rate": 13.408,
+      "date": "2026-11-19",
+      "rate": 13.3104,
       "units": 10,
-      "rate_per_unit": 1.3408
+      "rate_per_unit": 1.33104
     },
     {
       "code": "TND",
-      "date": "2026-11-18",
-      "rate": 14.8548,
+      "date": "2026-11-19",
+      "rate": 14.7751,
       "units": 1,
-      "rate_per_unit": 14.8548
+      "rate_per_unit": 14.7751
     },
     {
       "code": "TRY",
-      "date": "2026-11-18",
-      "rate": 0.8994,
+      "date": "2026-11-19",
+      "rate": 0.8961,
       "units": 1,
-      "rate_per_unit": 0.8994
+      "rate_per_unit": 0.8961
     },
     {
       "code": "USD",
-      "date": "2026-11-18",
-      "rate": 45.3436,
+      "date": "2026-11-19",
+      "rate": 45.202,
       "units": 1,
-      "rate_per_unit": 45.3436
+      "rate_per_unit": 45.202
     },
     {
       "code": "VND",
-      "date": "2026-11-18",
-      "rate": 1.7615,
+      "date": "2026-11-19",
+      "rate": 1.7575,
       "units": 1000,
-      "rate_per_unit": 0.0017615
+      "rate_per_unit": 0.0017575
     },
     {
       "code": "XAG",
-      "date": "2026-11-18",
-      "rate": 2154.76,
+      "date": "2026-11-19",
+      "rate": 2067.43,
       "units": 1,
-      "rate_per_unit": 2154.76
+      "rate_per_unit": 2067.43
     },
     {
       "code": "XAU",
-      "date": "2026-11-18",
-      "rate": 175133.12,
+      "date": "2026-11-19",
+      "rate": 170292.87,
       "units": 1,
-      "rate_per_unit": 175133.12
+      "rate_per_unit": 170292.87
     },
     {
       "code": "XDR",
-      "date": "2026-11-18",
-      "rate": 60.9983,
+      "date": "2026-11-19",
+      "rate": 60.7444,
       "units": 1,
-      "rate_per_unit": 60.9983
+      "rate_per_unit": 60.7444
     },
     {
       "code": "XPD",
-      "date": "2026-11-18",
-      "rate": 44582.89,
+      "date": "2026-11-19",
+      "rate": 42963.01,
       "units": 1,
-      "rate_per_unit": 44582.89
+      "rate_per_unit": 42963.01
     },
     {
       "code": "XPT",
-      "date": "2026-11-18",
-      "rate": 65853,
+      "date": "2026-11-19",
+      "rate": 62306.98,
       "units": 1,
-      "rate_per_unit": 65853
+      "rate_per_unit": 62306.98
     },
     {
       "code": "ZAR",
-      "date": "2026-11-18",
-      "rate": 2.6774,
+      "date": "2026-11-19",
+      "rate": 2.6398,
       "units": 1,
-      "rate_per_unit": 2.6774
+      "rate_per_unit": 2.6398
     }
   ]
 }
