@@ -4,7 +4,7 @@
   "r030": 498,
   "name": "Молдовський лей",
   "name_en": "Moldovan Leu",
-  "updated_at": "2026-11-18T21:56:55Z",
+  "updated_at": "2026-11-19T22:09:48Z",
   "rates": [
     {"date": "1996-09-02", "rate": 38.03, "units": 100, "rate_per_unit": 0.3803},
     {"date": "1996-09-03", "rate": 38.01, "units": 100, "rate_per_unit": 0.3801},
@@ -11029,6 +11029,7 @@
     {"date": "2026-11-16", "rate": 2.4993, "units": 1, "rate_per_unit": 2.4993},
     {"date": "2026-11-17", "rate": 2.4852, "units": 1, "rate_per_unit": 2.4852},
     {"date": "2026-11-18", "rate": 2.4791, "units": 1, "rate_per_unit": 2.4791},
-    {"date": "2026-11-19", "rate": 2.4647, "units": 1, "rate_per_unit": 2.4647}
+    {"date": "2026-11-19", "rate": 2.4647, "units": 1, "rate_per_unit": 2.4647},
+    {"date": "2026-11-20", "rate": 2.4578, "units": 1, "rate_per_unit": 2.4578}
   ]
 }

@@ -4,7 +4,7 @@
   "r030": 578,
   "name": "Норвезька крона",
   "name_en": "Norwegian Krone",
-  "updated_at": "2026-11-18T21:56:55Z",
+  "updated_at": "2026-11-19T22:09:48Z",
   "rates": [
     {"date": "1996-09-02", "rate": 27.46, "units": 100, "rate_per_unit": 0.2746},
     {"date": "1996-09-03", "rate": 27.43, "units": 100, "rate_per_unit": 0.2743},
@@ -11029,6 +11029,7 @@
     {"date": "2026-11-16", "rate": 4.7541, "units": 1, "rate_per_unit": 4.7541},
     {"date": "2026-11-17", "rate": 4.73, "units": 1, "rate_per_unit": 4.73},
     {"date": "2026-11-18", "rate": 4.7026, "units": 1, "rate_per_unit": 4.7026},
-    {"date": "2026-11-19", "rate": 4.6673, "units": 1, "rate_per_unit": 4.6673}
+    {"date": "2026-11-19", "rate": 4.6673, "units": 1, "rate_per_unit": 4.6673},
+    {"date": "2026-11-20", "rate": 4.6511, "units": 1, "rate_per_unit": 4.6511}
   ]
 }

@@ -4,7 +4,7 @@
   "r030": 376,
   "name": "Новий ізраїльський шекель",
   "name_en": "New Israeli Sheqel",
-  "updated_at": "2026-11-18T21:56:55Z",
+  "updated_at": "2026-11-19T22:09:48Z",
   "rates": [
     {"date": "1996-09-02", "rate": 55.86, "units": 100, "rate_per_unit": 0.5586},
     {"date": "1996-09-03", "rate": 55.83, "units": 100, "rate_per_unit": 0.5583},
@@ -8947,6 +8947,7 @@
     {"date": "2026-11-16", "rate": 14.1767, "units": 1, "rate_per_unit": 14.1767},
     {"date": "2026-11-17", "rate": 14.0811, "units": 1, "rate_per_unit": 14.0811},
     {"date": "2026-11-18", "rate": 13.9558, "units": 1, "rate_per_unit": 13.9558},
-    {"date": "2026-11-19", "rate": 13.8884, "units": 1, "rate_per_unit": 13.8884}
+    {"date": "2026-11-19", "rate": 13.8884, "units": 1, "rate_per_unit": 13.8884},
+    {"date": "2026-11-20", "rate": 13.7552, "units": 1, "rate_per_unit": 13.7552}
   ]
 }
