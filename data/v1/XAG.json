@@ -4,7 +4,7 @@
   "r030": 961,
   "name": "Срібло",
   "name_en": "Silver",
-  "updated_at": "2026-11-20T21:49:13Z",
+  "updated_at": "2026-11-24T01:40:17Z",
   "rates": [
     {"date": "1997-08-28", "rate": 8.64, "units": 1, "rate_per_unit": 8.64},
     {"date": "1997-08-29", "rate": 8.65, "units": 1, "rate_per_unit": 8.65},
@@ -9679,6 +9679,7 @@
     {"date": "2026-11-20", "rate": 2036.14, "units": 1, "rate_per_unit": 2036.14},
     {"date": "2026-11-21", "rate": 2036.14, "units": 1, "rate_per_unit": 2036.14},
     {"date": "2026-11-22", "rate": 2036.14, "units": 1, "rate_per_unit": 2036.14},
-    {"date": "2026-11-23", "rate": 1907.42, "units": 1, "rate_per_unit": 1907.42}
+    {"date": "2026-11-23", "rate": 1907.42, "units": 1, "rate_per_unit": 1907.42},
+    {"date": "2026-11-24", "rate": 1916.93, "units": 1, "rate_per_unit": 1916.93}
   ]
 }

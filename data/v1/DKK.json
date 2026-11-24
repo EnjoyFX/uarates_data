@@ -4,7 +4,7 @@
   "r030": 208,
   "name": "Данська крона",
   "name_en": "Danish Krone",
-  "updated_at": "2026-11-20T21:49:13Z",
+  "updated_at": "2026-11-24T01:40:17Z",
   "rates": [
     {"date": "1996-09-02", "rate": 30.75, "units": 100, "rate_per_unit": 0.3075},
     {"date": "1996-09-03", "rate": 30.72, "units": 100, "rate_per_unit": 0.3072},
@@ -11033,6 +11033,7 @@
     {"date": "2026-11-20", "rate": 6.627, "units": 1, "rate_per_unit": 6.627},
     {"date": "2026-11-21", "rate": 6.627, "units": 1, "rate_per_unit": 6.627},
     {"date": "2026-11-22", "rate": 6.627, "units": 1, "rate_per_unit": 6.627},
-    {"date": "2026-11-23", "rate": 6.5925, "units": 1, "rate_per_unit": 6.5925}
+    {"date": "2026-11-23", "rate": 6.5925, "units": 1, "rate_per_unit": 6.5925},
+    {"date": "2026-11-24", "rate": 6.6161, "units": 1, "rate_per_unit": 6.6161}
   ]
 }
