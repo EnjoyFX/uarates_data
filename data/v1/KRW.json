@@ -4,7 +4,7 @@
   "r030": 410,
   "name": "Вона",
   "name_en": "Won",
-  "updated_at": "2026-11-24T01:40:17Z",
+  "updated_at": "2026-11-24T23:29:11Z",
   "rates": [
     {"date": "1996-09-02", "rate": 21.52, "units": 10000, "rate_per_unit": 0.002152},
     {"date": "1996-09-03", "rate": 21.51, "units": 10000, "rate_per_unit": 0.002151},
@@ -8960,6 +8960,7 @@
     {"date": "2026-11-21", "rate": 3.3896, "units": 100, "rate_per_unit": 0.033896},
     {"date": "2026-11-22", "rate": 3.3896, "units": 100, "rate_per_unit": 0.033896},
     {"date": "2026-11-23", "rate": 3.3564, "units": 100, "rate_per_unit": 0.033564},
-    {"date": "2026-11-24", "rate": 3.3493, "units": 100, "rate_per_unit": 0.033493}
+    {"date": "2026-11-24", "rate": 3.3493, "units": 100, "rate_per_unit": 0.033493},
+    {"date": "2026-11-25", "rate": 3.3761, "units": 100, "rate_per_unit": 0.033761}
   ]
 }

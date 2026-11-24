@@ -4,7 +4,7 @@
   "r030": 203,
   "name": "Чеська крона",
   "name_en": "Czech Koruna",
-  "updated_at": "2026-11-24T01:40:17Z",
+  "updated_at": "2026-11-24T23:29:11Z",
   "rates": [
     {"date": "1996-09-02", "rate": 6.66, "units": 100, "rate_per_unit": 0.0666},
     {"date": "1996-09-03", "rate": 6.66, "units": 100, "rate_per_unit": 0.0666},
@@ -11034,6 +11034,7 @@
     {"date": "2026-11-21", "rate": 2.0282, "units": 1, "rate_per_unit": 2.0282},
     {"date": "2026-11-22", "rate": 2.0282, "units": 1, "rate_per_unit": 2.0282},
     {"date": "2026-11-23", "rate": 2.0154, "units": 1, "rate_per_unit": 2.0154},
-    {"date": "2026-11-24", "rate": 2.022, "units": 1, "rate_per_unit": 2.022}
+    {"date": "2026-11-24", "rate": 2.022, "units": 1, "rate_per_unit": 2.022},
+    {"date": "2026-11-25", "rate": 2.0299, "units": 1, "rate_per_unit": 2.0299}
   ]
 }

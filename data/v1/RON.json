@@ -4,7 +4,7 @@
   "r030": 946,
   "name": "Румунський лей",
   "name_en": "Romanian Leu",
-  "updated_at": "2026-11-24T01:40:17Z",
+  "updated_at": "2026-11-24T23:29:11Z",
   "rates": [
     {"date": "2014-05-01", "rate": 354.2672, "units": 100, "rate_per_unit": 3.542672},
     {"date": "2014-05-02", "rate": 354.2672, "units": 100, "rate_per_unit": 3.542672},
@@ -4568,6 +4568,7 @@
     {"date": "2026-11-21", "rate": 9.2645, "units": 1, "rate_per_unit": 9.2645},
     {"date": "2026-11-22", "rate": 9.2645, "units": 1, "rate_per_unit": 9.2645},
     {"date": "2026-11-23", "rate": 9.2104, "units": 1, "rate_per_unit": 9.2104},
-    {"date": "2026-11-24", "rate": 9.2459, "units": 1, "rate_per_unit": 9.2459}
+    {"date": "2026-11-24", "rate": 9.2459, "units": 1, "rate_per_unit": 9.2459},
+    {"date": "2026-11-25", "rate": 9.2836, "units": 1, "rate_per_unit": 9.2836}
   ]
 }
