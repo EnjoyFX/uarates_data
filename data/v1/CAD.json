@@ -4,7 +4,7 @@
   "r030": 124,
   "name": "Канадський долар",
   "name_en": "Canadian Dollar",
-  "updated_at": "2026-11-24T23:29:11Z",
+  "updated_at": "2026-11-25T23:05:53Z",
   "rates": [
     {"date": "1996-09-02", "rate": 128.74, "units": 100, "rate_per_unit": 1.2874},
     {"date": "1996-09-03", "rate": 128.56, "units": 100, "rate_per_unit": 1.2856},
@@ -11035,6 +11035,7 @@
     {"date": "2026-11-22", "rate": 31.4853, "units": 1, "rate_per_unit": 31.4853},
     {"date": "2026-11-23", "rate": 31.3694, "units": 1, "rate_per_unit": 31.3694},
     {"date": "2026-11-24", "rate": 31.452, "units": 1, "rate_per_unit": 31.452},
-    {"date": "2026-11-25", "rate": 31.6247, "units": 1, "rate_per_unit": 31.6247}
+    {"date": "2026-11-25", "rate": 31.6247, "units": 1, "rate_per_unit": 31.6247},
+    {"date": "2026-11-26", "rate": 31.7102, "units": 1, "rate_per_unit": 31.7102}
   ]
 }

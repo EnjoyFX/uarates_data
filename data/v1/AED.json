@@ -4,7 +4,7 @@
   "r030": 784,
   "name": "Дирхам ОАЕ",
   "name_en": "UAE Dirham",
-  "updated_at": "2026-11-24T23:29:11Z",
+  "updated_at": "2026-11-25T23:05:53Z",
   "rates": [
     {"date": "2016-11-01", "rate": 694.6946, "units": 100, "rate_per_unit": 6.946946},
     {"date": "2016-11-02", "rate": 694.6946, "units": 100, "rate_per_unit": 6.946946},
@@ -3682,6 +3682,7 @@
     {"date": "2026-11-22", "rate": 12.2659, "units": 1, "rate_per_unit": 12.2659},
     {"date": "2026-11-23", "rate": 12.2322, "units": 1, "rate_per_unit": 12.2322},
     {"date": "2026-11-24", "rate": 12.2735, "units": 1, "rate_per_unit": 12.2735},
-    {"date": "2026-11-25", "rate": 12.3478, "units": 1, "rate_per_unit": 12.3478}
+    {"date": "2026-11-25", "rate": 12.3478, "units": 1, "rate_per_unit": 12.3478},
+    {"date": "2026-11-26", "rate": 12.3256, "units": 1, "rate_per_unit": 12.3256}
   ]
 }
