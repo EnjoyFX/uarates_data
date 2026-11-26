@@ -4,7 +4,7 @@
   "r030": 985,
   "name": "Злотий",
   "name_en": "Zloty",
-  "updated_at": "2026-11-25T23:05:53Z",
+  "updated_at": "2026-11-26T22:59:19Z",
   "rates": [
     {"date": "1997-11-12", "rate": 53.8, "units": 100, "rate_per_unit": 0.538},
     {"date": "1997-11-13", "rate": 53.55, "units": 100, "rate_per_unit": 0.5355},
@@ -10612,6 +10612,7 @@
     {"date": "2026-11-23", "rate": 11.0632, "units": 1, "rate_per_unit": 11.0632},
     {"date": "2026-11-24", "rate": 11.0975, "units": 1, "rate_per_unit": 11.0975},
     {"date": "2026-11-25", "rate": 11.1164, "units": 1, "rate_per_unit": 11.1164},
-    {"date": "2026-11-26", "rate": 11.0566, "units": 1, "rate_per_unit": 11.0566}
+    {"date": "2026-11-26", "rate": 11.0566, "units": 1, "rate_per_unit": 11.0566},
+    {"date": "2026-11-27", "rate": 11.0479, "units": 1, "rate_per_unit": 11.0479}
   ]
 }

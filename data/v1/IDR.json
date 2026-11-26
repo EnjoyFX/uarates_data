@@ -4,7 +4,7 @@
   "r030": 360,
   "name": "Рупія",
   "name_en": "Rupiah",
-  "updated_at": "2026-11-25T23:05:53Z",
+  "updated_at": "2026-11-26T22:59:19Z",
   "rates": [
     {"date": "2016-11-01", "rate": 19.5667, "units": 10000, "rate_per_unit": 0.00195667},
     {"date": "2016-11-02", "rate": 19.6082, "units": 10000, "rate_per_unit": 0.00196082},
@@ -3683,6 +3683,7 @@
     {"date": "2026-11-23", "rate": 2.4587, "units": 1000, "rate_per_unit": 0.0024587},
     {"date": "2026-11-24", "rate": 2.4764, "units": 1000, "rate_per_unit": 0.0024764},
     {"date": "2026-11-25", "rate": 2.488, "units": 1000, "rate_per_unit": 0.002488},
-    {"date": "2026-11-26", "rate": 2.4705, "units": 1000, "rate_per_unit": 0.0024705}
+    {"date": "2026-11-26", "rate": 2.4705, "units": 1000, "rate_per_unit": 0.0024705},
+    {"date": "2026-11-27", "rate": 2.4559, "units": 1000, "rate_per_unit": 0.0024559}
   ]
 }
