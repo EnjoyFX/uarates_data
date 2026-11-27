@@ -4,7 +4,7 @@
   "r030": 826,
   "name": "Фунт стерлінгів",
   "name_en": "Pound Sterling",
-  "updated_at": "2026-11-26T22:59:19Z",
+  "updated_at": "2026-11-27T22:42:40Z",
   "rates": [
     {"date": "1996-09-02", "rate": 274.18, "units": 100, "rate_per_unit": 2.7418},
     {"date": "1996-09-03", "rate": 275.1, "units": 100, "rate_per_unit": 2.751},
@@ -11045,6 +11045,9 @@
     {"date": "2026-11-24", "rate": 59.0981, "units": 1, "rate_per_unit": 59.0981},
     {"date": "2026-11-25", "rate": 59.2779, "units": 1, "rate_per_unit": 59.2779},
     {"date": "2026-11-26", "rate": 59.1673, "units": 1, "rate_per_unit": 59.1673},
-    {"date": "2026-11-27", "rate": 59.1216, "units": 1, "rate_per_unit": 59.1216}
+    {"date": "2026-11-27", "rate": 59.1216, "units": 1, "rate_per_unit": 59.1216},
+    {"date": "2026-11-28", "rate": 59.1216, "units": 1, "rate_per_unit": 59.1216},
+    {"date": "2026-11-29", "rate": 59.1216, "units": 1, "rate_per_unit": 59.1216},
+    {"date": "2026-11-30", "rate": 59.0948, "units": 1, "rate_per_unit": 59.0948}
   ]
 }

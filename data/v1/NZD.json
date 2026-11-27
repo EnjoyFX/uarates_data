@@ -4,7 +4,7 @@
   "r030": 554,
   "name": "Новозеландський долар",
   "name_en": "New Zealand Dollar",
-  "updated_at": "2026-11-26T22:59:19Z",
+  "updated_at": "2026-11-27T22:42:40Z",
   "rates": [
     {"date": "1996-09-02", "rate": 122.2, "units": 100, "rate_per_unit": 1.222},
     {"date": "1996-09-03", "rate": 122.13, "units": 100, "rate_per_unit": 1.2213},
@@ -8963,6 +8963,9 @@
     {"date": "2026-11-24", "rate": 24.652, "units": 1, "rate_per_unit": 24.652},
     {"date": "2026-11-25", "rate": 24.7515, "units": 1, "rate_per_unit": 24.7515},
     {"date": "2026-11-26", "rate": 24.7104, "units": 1, "rate_per_unit": 24.7104},
-    {"date": "2026-11-27", "rate": 24.7154, "units": 1, "rate_per_unit": 24.7154}
+    {"date": "2026-11-27", "rate": 24.7154, "units": 1, "rate_per_unit": 24.7154},
+    {"date": "2026-11-28", "rate": 24.7154, "units": 1, "rate_per_unit": 24.7154},
+    {"date": "2026-11-29", "rate": 24.7154, "units": 1, "rate_per_unit": 24.7154},
+    {"date": "2026-11-30", "rate": 24.6938, "units": 1, "rate_per_unit": 24.6938}
   ]
 }
